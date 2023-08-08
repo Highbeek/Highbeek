@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Ibukun!<br><br>💻 I am a frontend developer passionate about creating engaging web experiences.<br><br>🚀 Currently, I'm exploring the world of React animations and React Native, while also mastering React and Next.js.<br><br>🤝 Let's collaborate on exciting frontend projects!<br><br>📚 I am open to learning and expanding my knowledge.<br><br>❓ Ask me about HTML, CSS, JavaScript, React.<br><br>📊 Fun fact: I also enjoy analyzing data and deriving insights.<br><br>🎵 In my free time, I enjoy listening to good music and watching movies.<br><br>🌟 Let's create amazing frontend experiences together!
+👋 Hello, I'm Ibukun!<br><br>💻 I am a frontend developer passionate about creating engaging web and mobile experiences.<br><br>🚀 Currently, I'm exploring the world of React animations and React Native, while also mastering React and Next.js.<br><br>🤝 Let's collaborate on exciting frontend projects!<br><br>📚 I am open to learning and expanding my knowledge.<br><br>❓ Ask me about HTML, CSS, JavaScript, React.<br><br>📊 Fun fact: I also enjoy analyzing data and deriving insights.<br><br>🎵 In my free time, I enjoy listening to good music and watching movies.<br><br>🌟 Let's create amazing frontend experiences together!
 
 
 ## 🌐 Socials:
