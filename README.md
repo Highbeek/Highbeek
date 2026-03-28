@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 Hello, I'm Ibukun!<br><br>💻 I’m a seasoned frontend developer with a strong track record of delivering high-quality web and mobile applications. My passion lies in crafting sophisticated and engaging user interfaces that drive user satisfaction and business results.<br><br>🚀 At present, I am delving into advanced React animations and enhancing my expertise in React Native, React, and Next.js. My focus is on creating dynamic, performant, and visually captivating experiences.<br><br>📱 With extensive experience in both web and mobile development, I specialize in building seamless and intuitive applications that provide exceptional user experiences across platforms.<br><br>🤝 I thrive on collaborating with teams and clients to tackle complex challenges and deliver innovative frontend solutions that meet diverse needs.<br><br>📚  I am committed to continuous learning and staying updated with the latest industry trends and technologies.<br><br>❓ My areas of expertise include HTML, CSS, JavaScript, React, and mobile development. I’m always happy to share insights or discuss best practices.<br><br>📊 A data enthusiast, I enjoy analyzing data to extract valuable insights and drive informed decision-making.<br><br>🎵 In my downtime, I appreciate good music and movies, which often inspire my creative work.<br><br>🌟 Let’s connect and create outstanding frontend solutions that make a difference!
+👋 Hello, I'm Ibukun!<br><br>
+
+💻 I’m a Senior React Native & Frontend Engineer with 4+ years of experience delivering scalable web and mobile applications across fintech, crypto, and marketplace products used by 40K+ users. I focus on building high-performance, production-ready systems that drive real business impact.<br><br>
+
+🚀 At present, I am deepening my expertise in advanced React Native architecture, performance optimization, and scalable frontend systems. I’m particularly focused on delivering smooth, high-quality experiences across devices, including low-end hardware.<br><br>
+
+📱 With strong experience across both mobile and web, I specialize in building seamless, intuitive applications with a focus on performance, reliability, and user experience.<br><br>
+
+⚙️ I’ve led feature delivery, built reusable SDKs and developer tools, reduced third-party dependencies through custom native modules, and shipped production apps to the App Store and Google Play.<br><br>
+
+🤝 I thrive in collaborative environments, working with cross-functional teams to solve complex product challenges and deliver impactful solutions.<br><br>
+
+📚 I am committed to continuous learning and staying aligned with evolving technologies and best practices in frontend and mobile development.<br><br>
+
+❓ My core stack includes JavaScript (ES6+), TypeScript, React, Next.js, React Native, and modern state management and API integration patterns.<br><br>
+
+📊 I also enjoy working with data-driven systems, building dashboards, and leveraging insights to improve product decisions and user outcomes.<br><br>
+
+🎵 In my downtime, I enjoy music and movies, which often fuel my creativity and approach to building products.<br><br>
+
+🌍 Open to remote opportunities and collaborations — let’s build something impactful.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mystimaskot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/highbeek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ibukunagboola) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Highbk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@highbeek) 
