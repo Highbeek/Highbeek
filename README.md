@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, I'm Ibukun!<br><br>
 
-💻 I'm a Mobile & Frontend Engineer with 5+ years of experience building React Native and web apps across fintech, crypto and marketplace products, reaching 60,000+ users. I focus on high-performance, production-ready systems.<br><br>
+💻 I'm a Mobile & Frontend Engineer with 5+ years of experience building React Native and web apps across fintech, crypto and marketplace products, reaching 100,000+ users. I focus on high-performance, production-ready systems.<br><br>
 
 ⚙️ I've led feature delivery, built reusable SDKs and developer tools, reduced third-party dependencies through custom native modules, and shipped production apps to the App Store and Google Play.<br><br>
 
